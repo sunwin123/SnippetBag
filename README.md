@@ -1,2 +1,2 @@
 # SnippetBag
-convenient for programming Android code snippets or demos
+Convenient for writing many Android code snippets or demos in one project.
